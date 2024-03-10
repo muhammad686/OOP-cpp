@@ -1,0 +1,8 @@
+# Ignore zip files
+*.zip
+
+# Ignore executable files
+*.exe
+
+*.vs
+Debug/
